@@ -2761,9 +2761,9 @@ axe-core@^4.10.0:
   integrity sha512-Xm7bpRXnDSX2YE2YFfBk2FnF0ep6tmG7xPh8iHee8MIcrgq762Nkce856dYtJYLkuIoYZvGfTs/PbZhideTcEg==
 
 axios@^1.6.4:
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.11.0.tgz#c2ec219e35e414c025b2095e8b8280278478fdb6"
-  integrity sha512-1Lx3WLFQWm3ooKDYZD1eXmoGO9fxYQjrycfHFC8P0sCfQVXyROp0p9PFWBehewBOdCwHc+f/b8I0fMto5eSfwA==
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.12.0.tgz#11248459be05a5ee493485628fa0e4323d0abfc3"
+  integrity sha512-oXTDccv8PcfjZmPGlWsPSwtOJCZ/b6W5jAMCNcfwJbCzDckwG0jrYJFaWH1yvivfCXjVzV/SPDEhMB3Q+DSurg==
   dependencies:
     follow-redirects "^1.15.6"
     form-data "^4.0.4"
@@ -2775,9 +2775,9 @@ axobject-query@^4.1.0:
   integrity sha512-qIj0G9wZbMGNLjLmg1PT6v2mE9AH2zlnADJD/2tC6E00hgmhUOfEB6greHPAfLRSufHqROIUTkw6E+M3lH0PTQ==
 
 b4a@^1.6.4:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/b4a/-/b4a-1.7.0.tgz#d3c1f72f68be612020c15702d0a6f0e8bc0b65e5"
-  integrity sha512-KtsH1alSKomfNi/yDAFaD8PPFfi0LxJCEbPuzogcXrMF+yH40Z1ykTDo2vyxuQfN1FLjv0LFM7CadLHEPrVifw==
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/b4a/-/b4a-1.7.1.tgz#6fd4ec2fb33ba7a4ff341a2869bbfc88a6e57850"
+  integrity sha512-ZovbrBV0g6JxK5cGUF1Suby1vLfKjv4RWi8IxoaO/Mon8BDD9I21RxjHFtgQ+kskJqLAVyQZly3uMBui+vhc8Q==
 
 babel-jsx-utils@^1.1.0:
   version "1.1.0"
@@ -2923,9 +2923,9 @@ bare-events@^2.2.0, bare-events@^2.5.4:
   integrity sha512-AuTJkq9XmE6Vk0FJVNq5QxETrSA/vKHarWVBG5l/JbdCL1prJemiyJqUS0jrlXO0MftuPq4m3YVYhoNc5+aE/g==
 
 bare-fs@^4.0.1:
-  version "4.3.3"
-  resolved "https://registry.yarnpkg.com/bare-fs/-/bare-fs-4.3.3.tgz#b39f301569330305f64dc749603ce2e927f6b199"
-  integrity sha512-W+ZpiQx1i0dm073So22v3jColDtvyqSTyUYEnooYwKcl+SHuqnQGKyuHdwigQffWJV5ghKtskVH7ydAkBVKQZQ==
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/bare-fs/-/bare-fs-4.4.1.tgz#fb1262a26816f55959823e2ab4fc8445161a92d5"
+  integrity sha512-B7VdbD19fypJh6jCXgYge06pxj3UvMv+x8IOZjTSqpiy/ib3UHhwe8Zm7wqxHe7QI3CrySjui4YIRBvocuBthg==
   dependencies:
     bare-events "^2.5.4"
     bare-path "^3.0.0"
@@ -4085,9 +4085,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.211:
-  version "1.5.216"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.216.tgz#c49da93cae9c8b0548755b136423be6982e21a7e"
-  integrity sha512-uVgsufJ+qIiOsZBmqkM2AGPn3gbqPySHl/SLKXJ70nowhI0VsRX4aog+R9EUL2bOjqPPhfR9pG8j8s4Zk4xq+A==
+  version "1.5.217"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.217.tgz#71285850356ef48bc08275b26f0f355721e0f17d"
+  integrity sha512-Pludfu5iBxp9XzNl0qq2G87hdD17ZV7h5T4n6rQXDi3nCyloBV3jreE9+8GC6g4X/5yxqVgXEURpcLtM0WS4jA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
